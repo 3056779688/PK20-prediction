@@ -1,0 +1,17 @@
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\拯救小姐姐.exe
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\拯救小姐姐.exe.config
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\AipSdk.dll
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\Newtonsoft.Json.dll
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\AipSdk.xml
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\Newtonsoft.Json.xml
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\MainWindow.g.cs
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\App.g.cs
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\拯救小姐姐_MarkupCompile.cache
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\拯救小姐姐_MarkupCompile.lref
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\MainWindow.baml
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\拯救小姐姐.g.resources
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\拯救小姐姐.Properties.Resources.resources
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\Model.csproj.GenerateResource.Cache
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\拯救小姐姐.exe
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\obj\Release\拯救小姐姐.pdb
+D:\academic\Projects\拯救小姐姐\拯救小姐姐\bin\Release\拯救小姐姐.pdb
